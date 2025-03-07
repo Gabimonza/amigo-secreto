@@ -19,12 +19,6 @@
 4. 🎉 Una vez agregados los nombres, presiona "Sortear Amigo" para obtener un resultado aleatorio.
 
 ## 🛠️ Tecnologías Utilizadas
-- 🏗️ **HTML**
-- 🎨 **CSS**
-- ⚡ **JavaScript**
-
-## 🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas mejorar la aplicación, haz un **fork** del repositorio y envía un **pull request** con tus cambios.
-
-## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**.
+- **HTML**
+- **CSS**
+- **JavaScript**
