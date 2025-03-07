@@ -1,5 +1,4 @@
-<hi>Bienvenidos a mi proyecto</h1>
-<h2>📌 Amigo Secreto</h2>
+<h1>📌 Amigo Secreto</h1>
 
 ## 📖 Descripción
 **Amigo Secreto** es una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
