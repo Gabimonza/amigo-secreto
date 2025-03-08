@@ -16,5 +16,18 @@ function agregarAmigo() {
     let contador = amigos.length - 1; 
     console.log(`Amigo agregado:${amigos[contador]}`); 
 
+    actualizarLista();
+}
+
+function actualizarLista() {
+    const lista = document.getElementById("listaAmigos");
+    lista.innerHTML="";
+
+    amigos.forEach((amigo) => {
+        const li = document.createElement("li");
+        lista.textContent = amigos;
+        lista.appendChild(li);
+    });
+    
 }
 
